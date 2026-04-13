@@ -116,7 +116,7 @@ def run_fallback() -> None:
 # ENTRY POINT
 # ─────────────────────────────────────────────────────────────────────────────
 
-problem = "How can we make space travel completely sustainable?"
+problem = "how to make a choco chip cookies??"
 
 if not run_live(problem): 
     run_fallback()
